@@ -3,10 +3,9 @@
 }
 
 .lineleft {
-  display: block;
   margin: auto;
   text-align: left;
-  width: 13%;
+  width: 15%;
 }
 
 ul {
