@@ -2,10 +2,25 @@
   text-align: center;
 }
 
-ul li {
+.lineleft {
+  display: block;
+  margin: auto;
+  text-align: left;
+  width: 13%;
+}
+
+ul {
   list-style-position: inside;
 }
 
-ol li {
+ol {
   list-style-position: inside;
+}
+
+span {
+  font-style: italic;
+}
+
+h1  {
+  font-size: 50px;
 }
